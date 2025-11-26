@@ -1,0 +1,6 @@
+src/
+depot_tools/
+out/
+*.log
+*.zip
+

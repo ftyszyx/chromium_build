@@ -1,0 +1,15 @@
+is_debug=false
+is_component_build=false
+is_official_build=false
+is_chrome_branded=false
+symbol_level=1
+blink_symbol_level=0
+ffmpeg_branding="Chrome"
+proprietary_codecs=true
+enable_nacl=false
+target_os="win"
+target_cpu="x64"
+use_lld=true
+enable_swiftshader=false
+use_goma=false
+
